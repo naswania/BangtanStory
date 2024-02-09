@@ -1,0 +1,110 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+    text-decoration: none; 
+}
+.heder{
+    background-image: url(../Multimedia/bts.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigacija {
+    background-size: cover;
+    border-bottom: 2px solid #740370;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    background: rgba(216, 206, 206, 0.5);
+}
+.navigacija a{
+    font-size: 40px;
+    font-weight: 500;
+    margin:  35px;
+    color: black;
+}
+.heder-pozadina {
+    background: black (0, 0, 0, .2);
+    text-align: center;
+}
+#naslov {
+    padding: 350px ;  
+}
+.navigacija a:hover{
+    color: #555;
+}
+
+
+.naslov h1 {
+    color: rgb(250, 250, 250);
+    font-size: 80px;
+    font-family: 'Ranga', cursive,serif;
+}
+
+#opiskompjutera {
+  font-size: 25px;
+}
+    
+.content{
+    max-width: 400px; 
+}
+
+a.spesial{
+    color: blueviolet;
+    font-family: cursive;
+    font-size: 28px;
+}
+
+.thumb li:hover
+{transform: translateY(-25px);}
+
+.heder1{
+    background-image: url(../Multimedia/Namjoon.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.heder2{
+    background-image: url(../Multimedia/btss.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+h1{
+    color: goldenrod;
+    font-family: cursive;
+    font-size: 28px;
+    text-align: center;
+}
+
+.content1{
+    max-width: 200px; 
+} 
+
+.heder3{
+    background-image: url(../Multimedia/Reward.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.bckground{
+    background-image: url(../Multimedia/gradient.jpg);
+    background-repeat: repeat-x;
+}
+
+.heder4{
+    background-image: url(../Multimedia/bts3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.heder5{
+    background-image: url(../Multimedia/army.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
